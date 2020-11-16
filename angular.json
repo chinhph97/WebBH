@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WebBH"
+    }
+  },
+  "defaultProject": "WebBH",
+  "cli": {
+    "analytics": "b43b9deb-b13a-49e0-a9f4-286a6317fbd0"
+  }
 }
